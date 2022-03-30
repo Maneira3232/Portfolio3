@@ -1,0 +1,145 @@
+.backgroundpic {
+  position: center;
+    height: 650px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    
+}
+.card {
+  background-color: rgba(255, 255, 255, 0.027);
+}
+
+.brand{
+    text-align: center;
+    
+    background-color:rgba(5, 70, 25, 0.79);
+    width: 1268px;
+  }
+.MrPassword{
+  padding-color: blue;
+}
+
+
+
+  .project2 {
+    position: absolute;
+    /* lentgh: 25%; */
+    width: 105%;
+    /* top: 130%; */
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    background-color: rgb(74, 19, 138);
+    padding: 30px;
+    border-radius: 10px;
+  }
+
+  .project3 {
+    position: absolute;
+    lentgh: 25%;
+    width: 25%;
+    top: 130%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(86, 155, 86);
+  }
+
+  .project4 {
+    position: absolute;
+    lentgh: 25%;
+    width: 25%;
+    top: 173%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(208, 243, 7);
+    padding: 30px;
+    border-radius: 10px;
+  }
+
+  .project5 {
+    position: absolute;
+    width: 50%;
+    top: 173%;
+    left: 50%;
+    transform: translate(-55%, -55%);
+    background-color: rgb(7, 243, 164);
+    border-radius: 10px;
+  }
+  .project6 {
+    position: absolute;
+    /* lentgh: 25%; */
+    width: 25%;
+    top: 173%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(163, 13, 113);
+    padding: 30px;
+    border-radius: 10px;
+  }
+
+
+  .portfolio-container {
+    position: relative;
+    width: 100%;
+  }
+
+  .home-container {
+    position: relative;
+  }
+
+.about{
+  position:relative;
+  padding: 10px;
+  background-color: rgba(253, 244, 244, 0.753);
+  text-align: center;
+  transform: translate(-135%, 55%);
+  
+}
+
+  .about-me {
+    position:absolute;
+    background-color: rgba(253, 244, 244, 0.753);
+    padding: 10px;
+    border-radius: 10px;
+    text-color: rgb(37, 121, 69); 
+    transform: translate(-25%, 5%);
+  }
+
+  .me{
+    position: absolute;
+    width: 25%;
+    left: 45%;
+    transform: translate(-145%, 10%);
+    background-color: rgb(2, 52, 12);
+    padding: 30px;
+    border-radius: 10px;;
+    border-color: darkgreen;
+  }
+
+  .pokeball{
+    position: absolute;
+    lentgh: 25%;
+    width: 25%;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+  }
+
+  .github {
+    position: absolute;
+    lentgh: 25%;
+    width: 25%;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+  }
+
+ 
+ 
+
