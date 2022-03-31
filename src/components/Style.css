@@ -1,0 +1,46 @@
+.brand{
+    text-align:center;
+    background-color:blue;
+    margin: top 10px;
+
+}
+.homecontainer{
+    background-color:rgba(5, 140, 5, 0.701);
+    background-size: cover;
+    padding: 10px;
+    display: flex;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+.about-me{
+    background-color:red;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.home-container{
+    background-color:yellow;
+    background-image:url('../components/pages/images/background.jpg');
+    width: 100%;
+    background-position: center;
+    display: center;
+}
+.me{
+    border-radius: 20px;
+    width: 100%;
+
+}
+.link-tabs{
+margin-top: 75px;
+transform: translate(100%, -20%);
+background:rgba(255, 0, 0, 0.002);
+width: 35%;
+}
+.git{
+    width: 100%;
+    text-align: center;
+    
+
+}
