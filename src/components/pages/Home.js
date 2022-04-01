@@ -4,6 +4,7 @@ import Me from "../pages/images/me.jpg";
 import { Card, Row, Container, Col} from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import GitLinkIn from "../GitLinkIn.js";
+import  ProjectCarousel  from '../ProjectCarousel';
 // import Header from "react-bootstrap/Header"
 
 export default function Home() {
@@ -18,7 +19,9 @@ export default function Home() {
               <Image className="me" src={Me}></Image>
             </Card>
             <Card className="link-tabs">
-              <div><GitLinkIn /></div>
+              
+              <GitLinkIn />
+              
              
             </Card>
           </Col>
@@ -43,7 +46,9 @@ export default function Home() {
             </Card>
           </Col>
           <Col>
-          <Card></Card>
+          <Card>
+            <ProjectCarousel/>
+          </Card>
           </Col>
           <Col>
             <Card.Text className=""></Card.Text>

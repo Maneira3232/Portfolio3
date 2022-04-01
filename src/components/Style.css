@@ -33,14 +33,20 @@
 
 }
 .link-tabs{
-margin-top: 75px;
-transform: translate(100%, -20%);
+margin-top: 95px;
+transform: translate(45%, -20%);
 background:rgba(255, 0, 0, 0.002);
 width: 35%;
 }
-.git{
+.git{position:flex;
     width: 100%;
     text-align: center;
-    
-
+}
+.LinkIn{
+    position:flex;
+    width: 100%;
+    text-align: center;
+}
+.CCol{
+    background-color: rgba(175, 17, 17, 0.005);
 }
