@@ -1,7 +1,7 @@
 import React from 'react';
 import "../Style.css";
 import Me from "../pages/images/me.jpg";
-import { Card, Row, Container, Col,Navbar,Brand } from "react-bootstrap";
+import { Card, Row, Container, Col} from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import GitLinkIn from "../GitLinkIn.js";
 // import Header from "react-bootstrap/Header"
@@ -19,7 +19,7 @@ export default function Home() {
             </Card>
             <Card className="link-tabs">
               <div><GitLinkIn /></div>
-              {/* <GitLinkIn /> */}
+             
             </Card>
           </Col>
           <Col>
