@@ -39,21 +39,10 @@ export default function Home() {
       <h1 className="brand">Projects</h1>
 
       <Container className="Projects">
-        <Row>
-          <Col>
-            <Card className="">
-             
-            </Card>
-          </Col>
-          <Col>
-          <Card>
+        
             <ProjectCarousel/>
-          </Card>
-          </Col>
-          <Col>
-            <Card.Text className=""></Card.Text>
-          </Col>
-        </Row>
+       
+          
       </Container>
     </div>
    

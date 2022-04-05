@@ -2,7 +2,7 @@ import React from 'react';
 import '../components/Style.css';
 import Github from "../components/pages/images/media.png";
 // import Github from "../components/pages/images/media.png";
-import { Row, Col, Image, Card, Button, Container } from "react-bootstrap";
+import {  Image, Card, Button } from "react-bootstrap";
 import LinkedIn from "../components/pages/images/Linkedin.png";
 
 const GitLinkIn = () => {

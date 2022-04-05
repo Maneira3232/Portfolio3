@@ -22,11 +22,20 @@
 
 .home-container{
     background-color:yellow;
-    background-image:url('../components/pages/images/background.jpg');
+    /* background-image:url('../components/pages/images/background.jpg'); */
     width: 100%;
     background-position: center;
     display: center;
 }
+.Projects{
+    length: 50%;
+    background-size: cover;
+    background-color:yellow;
+    width: 100%;
+    background-position: center;
+    display: 100%;
+}
+
 .me{
     border-radius: 20px;
     width: 100%;
@@ -47,6 +56,5 @@ width: 35%;
     width: 100%;
     text-align: center;
 }
-.CCol{
-    background-color: rgba(175, 17, 17, 0.005);
-}
+
+
