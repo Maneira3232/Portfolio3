@@ -16,28 +16,30 @@
 .about-me{
     background-color:red;
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     width: 100%;
+    transform: translate(-20%, 5%);
 }
 
 .home-container{
     background-color:yellow;
-    /* background-image:url('../components/pages/images/background.jpg'); */
     width: 100%;
     background-position: center;
     display: center;
 }
 .Projects{
+    padding: 10px;
     length: 50%;
     background-size: cover;
-    background-color:yellow;
+    background-color:rgb(0, 234, 255);
     width: 100%;
     background-position: center;
     display: 100%;
 }
 
 .me{
-    border-radius: 20px;
+    transform: translate(45%, 0%);
+    border-radius: 500px;
     width: 100%;
 
 }
@@ -56,5 +58,18 @@ width: 35%;
     width: 100%;
     text-align: center;
 }
-
-
+.text{
+    text-align: center;
+    color: rgb(0, 255, 34);
+}
+.text2{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.text3{
+    text-align: center;
+    color: rgb(255, 145, 0);
+}
+.CarouselImage{
+    image-align: center;
+}

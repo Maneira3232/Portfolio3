@@ -15,9 +15,9 @@ export default function Home() {
       <Container className="homecontainer">
         <Row>
           <Col>
-            <Card className="me">
+            
               <Image className="me" src={Me}></Image>
-            </Card>
+           
             <Card className="link-tabs">
               
               <GitLinkIn />
@@ -39,14 +39,29 @@ export default function Home() {
       <h1 className="brand">Projects</h1>
 
       <Container className="Projects">
-        
             <ProjectCarousel/>
-       
-          
+       </Container>
+    </div>
+    <div>
+      <h1 className="brand">Next Section</h1>
+      <Container>
+        <Row>
+          <Col>
+            <Card></Card>
+          </Col>
+          <Col>
+            <Card></Card>
+          </Col>
+          <Col>
+            <Card></Card>
+          </Col>
+        </Row>
       </Container>
     </div>
-   
-
+  
+  
+  
+  
   </div>
 
   );

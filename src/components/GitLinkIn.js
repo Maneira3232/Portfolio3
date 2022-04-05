@@ -11,7 +11,7 @@ const GitLinkIn = () => {
             
                 <Card className="git">
                     <Image className="git" src={Github}></Image>
-                    <Button className="git" variant="success">Github</Button>
+                    <Button className="git" variant="success" href="https://github.com/Maneira3232">Github</Button>
                 </Card>
             
         
