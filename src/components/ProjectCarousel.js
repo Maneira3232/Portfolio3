@@ -10,16 +10,18 @@ import { Image, Button } from "react-bootstrap";
 
 
 const ProjectCarousel = () => {
+  
     return <div>
-     <Carousel>
-    <Carousel.Item>
-      <Image className="CarouselImage" width={1100} height={600} alt="900x500" src={PokeFinder}></Image><div className="carousel-caption">
+
+     <Carousel variant="dark" >
+    <Carousel.Item className="carousel" interval={1000} >
+      <Image className="CarouselImage" width={1200} height={600} alt="900x500" src={PokeFinder}></Image><div className="carousel-caption">
         <p className="text">
           <Button href="https://bchen41.github.io/PokeFinder/" variant="success">Click to View</Button>
         </p>
       </div>
     </Carousel.Item>
-    <Carousel.Item>
+    <Carousel.Item interval={1000}>
       <Image className="CarouselImage" width={1200} height={600} alt="900x500" src={MrPassword}></Image>
      <div className="carousel-caption">
         <p className="text">
@@ -27,7 +29,7 @@ const ProjectCarousel = () => {
         </p>
       </div>
     </Carousel.Item>
-    <Carousel.Item>
+    <Carousel.Item interval={1000}>
       <Image className="CarouselImage" width={1200} height={600} alt="900x500" src={Hypo}></Image>
      <div className="carousel-caption">
       <p className="text">
@@ -36,6 +38,8 @@ const ProjectCarousel = () => {
       </div>
     </Carousel.Item>
   </Carousel>
+
+
     </div>
 
 };
