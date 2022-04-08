@@ -4,6 +4,7 @@ import '../components/Style.css';
 import Carousel from 'react-bootstrap/Carousel';
 import PokeFinder from "../components/pages/images/PokeFinder.png";
 import Hypo from "../components/pages/images/Hypo.png";
+import mix from "../components/pages/images/Mixology-Masters.png";
 import MrPassword from "../components/pages/images/mr.password.png";
 import { Image, Button } from "react-bootstrap";
 
@@ -34,6 +35,14 @@ const ProjectCarousel = () => {
      <div className="carousel-caption">
       <p className="text">
           <Button href="https://auction-pandemic-essentials.herokuapp.com/login" variant="success">Click to View</Button>
+        </p>
+      </div>
+    </Carousel.Item>
+    <Carousel.Item interval={1000}>
+      <Image className="CarouselImage" width={1200} height={600} alt="900x500" src={mix}></Image>
+     <div className="carousel-caption">
+      <p className="text">
+          <Button href="https://mixology-masters.herokuapp.com/" variant="success">Click to View</Button>
         </p>
       </div>
     </Carousel.Item>

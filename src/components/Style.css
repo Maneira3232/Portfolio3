@@ -18,8 +18,8 @@
     background-color:red;
     border-radius: 10px;
     padding: 20px;
-    width: 100%;
-    position: left;
+    width: 150%;
+    transform: translate(-45%, 20%);
 }
 
 .home-container{
@@ -43,8 +43,7 @@
 }
 
 .me{
-    transform: translate(45%, 0%);
-    border-radius: 500px;
+    border-radius: 400px;
     width: 100%;
 
 }
@@ -85,6 +84,6 @@ width: 35%;
     background-color:red;
 }
 
-.contactBackground{
+/* .contactBackground{
     background:url()
-}
+} */

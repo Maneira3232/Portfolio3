@@ -1,6 +1,6 @@
 import React from 'react';
 import "../Style.css";
-import Me from "../pages/images/me.jpg";
+import Me from "../pages/images/man.png";
 import { Card, Row, Container, Col} from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import GitLinkIn from "../GitLinkIn.js";
@@ -16,7 +16,8 @@ export default function Home() {
         <Row>
           <Col>
             
-              <Image className="me" src={Me}></Image>
+              <Image  border="20px"src={Me} className="me" border-radius= "400px" ></Image>
+           
            
             <Card className="link-tabs">
               
