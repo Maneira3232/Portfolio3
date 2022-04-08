@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio3/static/css/main.cc16a838.css",
-    "main.js": "/Portfolio3/static/js/main.01c8c851.js",
+    "main.css": "/Portfolio3/static/css/main.0ab454e3.css",
+    "main.js": "/Portfolio3/static/js/main.694e7377.js",
+    "static/media/Mixology-Masters.png": "/Portfolio3/static/media/Mixology-Masters.76f9308ef9ac449224af.png",
     "static/media/Hypo.png": "/Portfolio3/static/media/Hypo.e592a3ca9c70c8f66236.png",
     "static/media/mr.password.png": "/Portfolio3/static/media/mr.password.588f75371734c9c797d7.png",
     "static/media/PokeFinder.png": "/Portfolio3/static/media/PokeFinder.aa4b5788a536552cad6d.png",
-    "static/media/me.jpg": "/Portfolio3/static/media/me.ce6832508c1320a433a0.jpg",
+    "static/media/man.png": "/Portfolio3/static/media/man.c90318865d44363f4d67.png",
     "index.html": "/Portfolio3/index.html",
-    "main.cc16a838.css.map": "/Portfolio3/static/css/main.cc16a838.css.map",
-    "main.01c8c851.js.map": "/Portfolio3/static/js/main.01c8c851.js.map"
+    "main.0ab454e3.css.map": "/Portfolio3/static/css/main.0ab454e3.css.map",
+    "main.694e7377.js.map": "/Portfolio3/static/js/main.694e7377.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc16a838.css",
-    "static/js/main.01c8c851.js"
+    "static/css/main.0ab454e3.css",
+    "static/js/main.694e7377.js"
   ]
 }
