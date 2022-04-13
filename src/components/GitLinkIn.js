@@ -11,14 +11,14 @@ const GitLinkIn = () => {
             
                 <Card className="git">
                     <Image className="git" src={Github}></Image>
-                    <Button className="git" variant="success" href="https://github.com/Maneira3232">Github</Button>
+                    <Button className="git" href="https://github.com/Maneira3232">Github</Button>
                 </Card>
             
         
             
                 <Card className="LinkIn" >
                     <Image className="LinkIn" src={LinkedIn}></Image>
-                    <Button className="LinkIn" variant="success" href="https://www.linkedin.com/in/jmaneira/">LinkedIn</Button>
+                    <Button className="LinkIn" href="https://www.linkedin.com/in/jmaneira/">LinkedIn</Button>
                 </Card>
             
             

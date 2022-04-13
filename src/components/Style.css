@@ -5,7 +5,7 @@
 
 }
 .homecontainer{
-    background-color:rgba(5, 140, 5, 0.701);
+    background:rgba(112, 93, 116, 0.701);
     background-size: cover;
     padding: 10px;
     display: flex;
@@ -15,7 +15,7 @@
 
 }
 .about-me{
-    background-color:red;
+    background-color:rgb(7, 142, 195);
     border-radius: 10px;
     padding: 20px;
     width: 150%;
@@ -23,7 +23,7 @@
 }
 
 .home-container{
-    background-color:yellow;
+    background-color:rgb(0, 191, 255);
     width: 100%;
     background-position: center;
     display: center;
@@ -45,6 +45,7 @@
 .me{
     border-radius: 400px;
     width: 100%;
+    border-color: aqua;
 
 }
 .link-tabs{
@@ -65,7 +66,7 @@ width: 35%;
 }
 .text{
     text-align: center;
-    color: rgb(0, 255, 34);
+    color: rgb(78, 36, 163);
 }
 .text2{
     text-align: center;
@@ -84,6 +85,6 @@ width: 35%;
     background-color:red;
 }
 
-/* .contactBackground{
-    background:url()
-} */
+.contactBackground{
+    
+}

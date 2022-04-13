@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
-import NavTabs from './NavTabs';
-import Home from './pages/Home';
-import Contact from './pages/Contact';
+import NavTabs from '../NavBarComp/NavTabs';
+import Home from '../pages/Home';
+import Contact from '../pages/Contact';
+import Footer from "../Footer/Footer.js";
+import backgroundComp from "../backgroundComp/backgroundComp.js";
 
 
 export default function PortfolioContainer() {
@@ -23,6 +25,9 @@ export default function PortfolioContainer() {
     <div>
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
+      <backgroundComp/>
+      <Footer/>
     </div>
+    
   );
 }
