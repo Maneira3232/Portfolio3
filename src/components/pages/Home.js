@@ -10,7 +10,7 @@ import  ProjectCarousel  from '../ProjectCarousel';
 export default function Home() {
   return (<div className="home-container">
     <div>
-      <h1 className="brand">Joe Maniera</h1>
+      <h1 className="brand">Joe Maneira</h1>
 
       <Container className="homecontainer">
         <Row>

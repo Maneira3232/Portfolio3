@@ -7,6 +7,7 @@ export default function Footer() {
        <div>
             <p className="footer">
                 JM PRODUCTIONS
+                
             </p>
         </div>
     )
