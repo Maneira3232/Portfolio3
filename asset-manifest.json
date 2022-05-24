@@ -1,18 +1,20 @@
 {
-  "files": {
-    "main.css": "/Portfolio3/static/css/main.ab5737c5.css",
-    "main.js": "/Portfolio3/static/js/main.16cbcb9c.js",
-    "static/media/Mixology-Masters.png": "/Portfolio3/static/media/Mixology-Masters.76f9308ef9ac449224af.png",
-    "static/media/Hypo.png": "/Portfolio3/static/media/Hypo.e592a3ca9c70c8f66236.png",
-    "static/media/mr.password.png": "/Portfolio3/static/media/mr.password.588f75371734c9c797d7.png",
-    "static/media/PokeFinder.png": "/Portfolio3/static/media/PokeFinder.aa4b5788a536552cad6d.png",
-    "static/media/man.png": "/Portfolio3/static/media/man.c90318865d44363f4d67.png",
-    "index.html": "/Portfolio3/index.html",
-    "main.ab5737c5.css.map": "/Portfolio3/static/css/main.ab5737c5.css.map",
-    "main.16cbcb9c.js.map": "/Portfolio3/static/js/main.16cbcb9c.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.ab5737c5.css",
-    "static/js/main.16cbcb9c.js"
-  ]
+  "main.css": "/Portfolio3/static/css/main.9a09de7a.chunk.css",
+  "main.js": "/Portfolio3/static/js/main.ec73f4ea.chunk.js",
+  "main.js.map": "/Portfolio3/static/js/main.ec73f4ea.chunk.js.map",
+  "static/css/1.90c7a7b5.chunk.css": "/Portfolio3/static/css/1.90c7a7b5.chunk.css",
+  "static/js/1.b633ddec.chunk.js": "/Portfolio3/static/js/1.b633ddec.chunk.js",
+  "static/js/1.b633ddec.chunk.js.map": "/Portfolio3/static/js/1.b633ddec.chunk.js.map",
+  "runtime~main.js": "/Portfolio3/static/js/runtime~main.960ed877.js",
+  "runtime~main.js.map": "/Portfolio3/static/js/runtime~main.960ed877.js.map",
+  "static/media/man.png": "/Portfolio3/static/media/man.ebcce4d9.png",
+  "static/media/PokeFinder.png": "/Portfolio3/static/media/PokeFinder.2302ee6d.png",
+  "static/media/Hypo.png": "/Portfolio3/static/media/Hypo.a8582398.png",
+  "static/media/Mixology-Masters.png": "/Portfolio3/static/media/Mixology-Masters.08335ff3.png",
+  "static/media/mr.password.png": "/Portfolio3/static/media/mr.password.7e0bd9b8.png",
+  "static/css/main.9a09de7a.chunk.css.map": "/Portfolio3/static/css/main.9a09de7a.chunk.css.map",
+  "static/css/1.90c7a7b5.chunk.css.map": "/Portfolio3/static/css/1.90c7a7b5.chunk.css.map",
+  "index.html": "/Portfolio3/index.html",
+  "precache-manifest.6a5e31c93593dc06f9224de9471e6867.js": "/Portfolio3/precache-manifest.6a5e31c93593dc06f9224de9471e6867.js",
+  "service-worker.js": "/Portfolio3/service-worker.js"
 }
